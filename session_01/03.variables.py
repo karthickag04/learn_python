@@ -2,7 +2,7 @@
 
 value = 10
 y = 20
-z = x + y
+z = value + y
 print(z)
 
 
