@@ -1,4 +1,4 @@
-## Session 01: Python Basics
+## Python Basics
 
 This session introduces fundamental Python concepts for beginners. Each file or notebook is designed to be self-contained, with code examples, comments, and explanations to help you understand the basics of Python programming.
 
@@ -24,6 +24,9 @@ This session introduces fundamental Python concepts for beginners. Each file or 
 
 - **06_Conditional.ipynb**  
   This notebook introduces conditional statements in Python, including `if`, `elif`, and `else` constructs. It demonstrates how to use logical operators within conditions and introduces the `match` statement for pattern matching (available in recent Python versions). The notebook provides practical code examples for decision making and branching logic in Python programs.
+
+- **07_data_structures_in_python.ipynb**  
+  This Jupyter notebook provides a comprehensive introduction to Python's built-in data structures: lists, tuples, dictionaries, and sets. It covers how to create, access, and modify each data structure, demonstrates their unique properties (such as mutability and immutability), and provides practical examples for each. The notebook also lists and explains common methods and operations for each data structure, including nested and mixed-type collections. Students will find hands-on code cells and explanations to help them understand how to use these data structures effectively in Python programming.
 
 ---
 
