@@ -1,3 +1,6 @@
 
 Added chat ref for inheritance.
 https://chatgpt.com/share/6847bf43-7770-800b-ad23-85713d001eb2
+
+conversation on oops with different logic implementation
+https://chatgpt.com/share/684a602a-6c08-800b-8e77-4fcf0acfa73e
