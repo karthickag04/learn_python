@@ -1,9 +1,14 @@
 # we can call it as parent/base class
 class parent:
+
     def House(self):
-        print("We have House")
+        print("We have House frm parent")
+
+
     def bike(self):
         print("We have bike")
+
+
 
 
 class parent01:
@@ -13,9 +18,35 @@ class parent01:
 
 
 class child(parent, parent01):
+     
+     
+     def House(self):
+         super().House()
+         print("I have House too from child class")
    
-   def cycle(self):
-       print("We have cycle")
+   
+class child1(parent, parent01):
+     
+     
+     def House(self):
+         super().House()
+         print("I have House too from child class")
+   
+   
+class child2(parent, parent01):
+     
+     
+     def House(self):
+         super().House()
+         print("I have House too from child class")
+   
+   
+class child3(parent, parent01):
+     
+     
+     def House(self):
+         super().House()
+         print("I have House too from child class")
    
    
 
@@ -23,7 +54,10 @@ class child(parent, parent01):
 class grandchild(child):
     pass
 
-
+childObj = grandchild()
+childObj.House()
+childObj.bike()
+childObj.car()
 
 
 # p = parent()
@@ -35,8 +69,8 @@ class grandchild(child):
 # c.car()
 
 
-gchild = grandchild()
-gchild.House()
-gchild.car()
-gchild.bike()
-gchild.cycle()
+# gchild = grandchild()
+# gchild.House()
+# gchild.car()
+# gchild.bike()
+# gchild.cycle()
