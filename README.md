@@ -44,13 +44,14 @@ Welcome to your comprehensive Python learning journey! This repository contains 
 
 #### In VS Code:
 1. Open VS Code
-2. Create a new file with `.py` extension (e.g., `hello.py`)
-3. Type: `print("Hello, World!")`
-4. Save the file (Ctrl+S)
-5. Run the program:
-   - **Method 1**: Click the "▶️" button in the top-right corner
-   - **Method 2**: Right-click → "Run Python File in Terminal"
-   - **Method 3**: Open Terminal (Ctrl+`) → type `python hello.py`
+2. Open a folder with a name of your choice (e.g., `python_projects`)
+3. Inside the folder, create a new file with a `.py` extension (e.g., `hello.py`)
+4. Type: `print("Hello, World!")`
+5. Save the file (Ctrl+S)
+6. Run the program:
+  - **Method 1**: Click the "▶️" button in the top-right corner
+  - **Method 2**: Right-click → "Run Python File in Terminal"
+  - **Method 3**: Open Terminal (Ctrl+`) → type `python hello.py`
 
 #### In PyCharm:
 1. Open PyCharm
