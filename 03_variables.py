@@ -1,6 +1,6 @@
 
 
-value = 10
+value_dfd = 10
 y = 20
 z = value + y
 print(z)

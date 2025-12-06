@@ -1,6 +1,25 @@
-# Python Learning Journey - Complete Beginner's Guide
+# 🐍 Python Learning Path - Complete Beginner's Guide
 
-Welcome to your comprehensive Python learning journey! This repository contains everything you need to get started with Python programming, from installation to advanced concepts. Each file or notebook is designed to be self-contained, with code examples, comments, and explanations to help you master Python programming step by step.
+Welcome to your comprehensive Python learning journey! This repository is structured to take you from absolute beginner to confident Python programmer with **40 lessons** organized into **11 modules** plus **4 practice projects**.
+
+## 📚 Course Overview
+
+| Module | Topic | Lessons | Files |
+|--------|-------|---------|-------|
+| 01 | Python Basics | 1-4 | 4 notebooks |
+| 02 | Operators | 5-9 | 5 notebooks |
+| 03 | Control Flow | 10-12 | 3 files |
+| 04 | Data Structures | 13-17 | 5 notebooks |
+| 05 | Loops | 18-21 | 4 notebooks |
+| 06 | Functions | 22-26 | 5 notebooks |
+| 07 | Math & Utilities | 27 | 1 notebook |
+| 08 | OOP Basics | 28-32 | 5 files |
+| 09 | OOP Advanced | 33-36 | 4 files |
+| 10 | Exception Handling | 37-38 | 2 notebooks |
+| 11 | Regular Expressions | 39-40 | 2 notebooks |
+| - | Practice Projects | - | 4 projects |
+
+---
 
 ## 🚀 Getting Started - Installation & Setup
 
@@ -286,16 +305,123 @@ Hello, World!
 
 ---
 
+## 🗺️ Complete Learning Roadmap
+
+### **Phase 1: Foundations (Lessons 1-12)**
+
+#### 📁 01_basics/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 1 | `01_hello_world.ipynb` | Hello World, print() |
+| 2 | `02_comments_and_docs.ipynb` | Comments, docstrings |
+| 3 | `03_variables_and_naming.ipynb` | Variables, naming |
+| 4 | `04_data_types.ipynb` | int, float, str, bool |
+
+#### 📁 02_operators/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 5 | `01_arithmetic_operators.ipynb` | +, -, *, /, //, %, ** |
+| 6 | `02_assignment_operators.ipynb` | =, +=, -=, etc. |
+| 7 | `03_comparison_operators.ipynb` | ==, !=, <, >, etc. |
+| 8 | `04_logical_operators.ipynb` | and, or, not |
+| 9 | `05_bitwise_operators.ipynb` | &, \|, ^, ~, <<, >> |
+
+#### 📁 03_control_flow/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 10 | `01_if_else.ipynb` | if, elif, else |
+| 11 | `02_match_case.ipynb` | Pattern matching |
+| 12 | `03_control_flow_practice.py` | Practice exercises |
+
+### **Phase 2: Data Structures & Loops (Lessons 13-21)**
+
+#### 📁 04_data_structures/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 13 | `01_lists.ipynb` | Lists, methods |
+| 14 | `02_tuples.ipynb` | Tuples, unpacking |
+| 15 | `03_dictionaries.ipynb` | Key-value pairs |
+| 16 | `04_sets.ipynb` | Sets, operations |
+| 17 | `05_strings.ipynb` | String methods |
+
+#### 📁 05_loops/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 18 | `01_for_loops.ipynb` | For loops, range() |
+| 19 | `02_while_loops.ipynb` | While loops |
+| 20 | `03_loop_control.ipynb` | break, continue |
+| 21 | `04_pattern_printing.ipynb` | Nested loops, patterns |
+
+### **Phase 3: Functions & Math (Lessons 22-27)**
+
+#### 📁 06_functions/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 22 | `01_function_basics.ipynb` | def, parameters |
+| 23 | `02_return_values.ipynb` | Return statements |
+| 24 | `03_lambda_functions.ipynb` | Lambda, map, filter |
+| 25 | `04_scope.ipynb` | Local, global scope |
+| 26 | `05_recursion.ipynb` | Recursive functions |
+
+#### 📁 07_math_and_utilities/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 27 | `01_math_module.ipynb` | Math functions |
+
+### **Phase 4: Object-Oriented Programming (Lessons 28-36)**
+
+#### 📁 08_oop_basics/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 28 | `01_classes_and_objects.ipynb` | Classes, __init__ |
+| 29 | `02_constructors_and_methods.ipynb` | Methods |
+| 30 | `03_encapsulation.ipynb` | Private, properties |
+| 31 | `04_instance_vs_class.ipynb` | Instance vs class |
+| 32 | `05_oop_practice.py` | OOP exercises |
+
+#### 📁 09_oop_advanced/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 33 | `01_inheritance.ipynb` | Inheritance, super() |
+| 34 | `02_polymorphism.ipynb` | Polymorphism |
+| 35 | `03_abstract_classes.ipynb` | ABC, abstract |
+| 36 | `04_advanced_oop_practice.py` | Advanced OOP |
+
+### **Phase 5: Error Handling & Regex (Lessons 37-40)**
+
+#### 📁 10_exception_handling/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 37 | `01_exception_basics.ipynb` | try, except, finally |
+| 38 | `02_custom_exceptions.ipynb` | Custom exceptions |
+
+#### 📁 11_regular_expressions/
+| Lesson | File | Topic |
+|--------|------|-------|
+| 39 | `01_regex_basics.ipynb` | Patterns, matching |
+| 40 | `02_regex_advanced.ipynb` | Groups, lookahead |
+
+### **🏗️ Practice Projects**
+
+| Project | File | Description |
+|---------|------|-------------|
+| 1 | `practice_projects/01_student_management.py` | Student Management System |
+| 2 | `practice_projects/02_calculator.py` | Scientific Calculator |
+| 3 | `practice_projects/03_contact_book.py` | Contact Book with file storage |
+| 4 | `practice_projects/04_quiz_game.py` | Interactive Quiz Game |
+
+---
+
 ## 🎉 Ready to Start Your Python Journey?
 
 1. **Install Python** (choose Standard Python or Anaconda)
 2. **Set up your IDE** (VS Code or PyCharm)  
-3. **Run your first program** (`01_helloworld.py`)
-4. **Follow the learning path** week by week
-5. **Practice daily** and experiment with the code
+3. **Start with 01_basics/** folder
+4. **Follow the lessons in order** (1 through 40)
+5. **Complete the practice projects** to solidify your skills
 
 **Happy Coding! 🐍✨**
 
 ---
 
-*This repository is designed to take you from complete beginner to intermediate Python programmer. Take your time, practice regularly, and don't hesitate to experiment with the code examples. Remember: the best way to learn programming is by doing!*
+*This repository takes you from complete beginner to intermediate Python programmer with 40 structured lessons. Take your time, practice regularly, and experiment with the code examples!*
