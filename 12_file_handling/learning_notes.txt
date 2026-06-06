@@ -1,0 +1,6 @@
+Python is an amazing programming language.
+It is widely used for data science, web development, and automation.
+File handling is a key part of programming.
+This is line 4.
+This is line 5.
+This line was added using append ('a') mode!

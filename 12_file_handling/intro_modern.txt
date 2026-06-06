@@ -1,0 +1,2 @@
+Hello, Python!
+This file was handled using the 'with' statement.

@@ -1,0 +1,2 @@
+Hello, World!
+This file was handled manually using open() and close().
