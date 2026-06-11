@@ -18,14 +18,15 @@ Real-World Use Case:
 # ==============================================
 
 # Basic variable assignment (= is the assignment operator)
+firstname = "John"   # String variable
 name = "John"
 age = 25
 height = 5.9
-is_student = True
+IsStudent = True
 
 # Print variables
 print("Name:", name)
-print("Age:", age)
+print( age)
 print("Height:", height)
 print("Is Student:", is_student)
 
@@ -175,6 +176,7 @@ print(f"Max Users: {MAX_USERS}")
 
 """
 List of Python reserved keywords:
+List of Python reserved keywords:
 
 False      await      else       import     pass
 None       break      except     in         raise
@@ -243,6 +245,9 @@ Best Practices:
 - Use lowercase with underscores (snake_case)
 - Use UPPERCASE for constants
 - Avoid single-letter names except in loops (i, j, k)
+- camelCase is common for variables and functions in JavaScript, Java, and C#
+- PascalCase is common for classes and constructors in many object-oriented languages
+
 
 Next Lesson: Data Types
 """
